@@ -9,8 +9,8 @@
         "MightyXSpam",
         "SpamBots"
     ],
-    "repository": "https://github.com/BeingMighty/MightyXBotSpam",
-    "website": "https://github.com/BeingMighty",
+    "repository": "https://github.com/jayanti01/MightyXBotSpam",
+    "website": "https://github.com/jayanti01",
     "success_url": "https://t.me/MightyXSupport",
     "env": {
              "API_ID": {
